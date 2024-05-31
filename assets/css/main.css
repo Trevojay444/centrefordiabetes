@@ -132,7 +132,7 @@ h6, i[class^=flaticon-], .body__overlay {
   --clr-common-selection: #262626;
   --clr-common-body: #fff;
   --clr-theme-primary: #02AFE5;
-  --clr-theme-secondary: #EB753B;
+  --clr-theme-secondary: #3bebe2;
   --clr-text-primary: #fff;
   --clr-text-secondary: #161616;
   --clr-text-body: #555555;
@@ -3351,7 +3351,7 @@ PAGINATION CSS START
 .banner-1 .banner-overlay-1 {
   height: 100%;
   width: 50%;
-  background: rgba(235, 117, 59, 0.2);
+  background: rgba(73, 164, 250, 0.2);
   position: absolute;
   top: 0;
   right: 0;
@@ -3411,7 +3411,7 @@ PAGINATION CSS START
   position: absolute;
   width: 202.21px;
   height: 202.21px;
-  background-color: rgba(235, 117, 59, 0.2);
+  background-color: rgba(73, 164, 250, 0.2);
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -3421,7 +3421,7 @@ PAGINATION CSS START
   position: absolute;
   width: 291.89px;
   height: 291.89px;
-  background-color: rgba(235, 117, 59, 0.15);
+  background-color: rgba(73, 164, 250, 0.2);
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -3431,7 +3431,7 @@ PAGINATION CSS START
   position: absolute;
   width: 373.35px;
   height: 373.35px;
-  background-color: rgba(235, 117, 59, 0.1);
+  background-color:rgba(73, 164, 250, 0.2) ;
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -3588,7 +3588,7 @@ PAGINATION CSS START
 }
 
 .banner-shape-inner {
-  background: #EB753B;
+  background: #52abf5;
   opacity: 0.2;
   position: absolute;
   height: 100%;
@@ -4135,7 +4135,7 @@ PAGINATION CSS START
   background-color: #161616;
 }
 .banner-dot .swiper-pagination-bullet.swiper-pagination-bullet-active {
-  background-color: #EB753B;
+  background-color: #5bc9fc;
 }
 
 .banner-discount {
@@ -5044,7 +5044,7 @@ PAGINATION CSS START
   position: absolute;
   width: 202.21px;
   height: 202.21px;
-  background-color: rgba(235, 117, 59, 0.2);
+  background-color: rgba(97, 167, 248, 0.2);
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -5065,7 +5065,7 @@ PAGINATION CSS START
   position: absolute;
   width: 291.89px;
   height: 291.89px;
-  background-color: rgba(235, 117, 59, 0.15);
+  background-color: rgba(97, 167, 248, 0.2);
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -5086,7 +5086,7 @@ PAGINATION CSS START
   position: absolute;
   width: 373.35px;
   height: 373.35px;
-  background-color: rgba(235, 117, 59, 0.1);
+  background-color: rgba(97, 167, 248, 0.2);
   border-radius: 1000px;
   top: 0;
   left: 0;
@@ -5163,7 +5163,7 @@ PAGINATION CSS START
   width: 360px;
   height: 496px;
   opacity: 0.4;
-  border: 10px solid #EB753B;
+  border: 10px solid #70a6f7;
   border-radius: 0px;
   bottom: 45px;
   z-index: -1;
