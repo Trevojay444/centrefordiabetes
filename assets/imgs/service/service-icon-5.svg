@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <circle cx="250" cy="250" r="200" fill="#02AFE5" />
+    <g transform="translate(150, 150)">
+      <path d="M100,100 L150,100 L150,150 L100,150 Z" fill="#fff" stroke="#000" stroke-width="2" />
+      <path d="M75,75 L125,75 L125,125 L75,125 Z" fill="#fff" stroke="#000" stroke-width="2" />
+      <path d="M50,50 L100,50 L100,100 L50,100 Z" fill="#fff" stroke="#000" stroke-width="2" />
+      <path d="M25,25 L75,25 L75,75 L25,75 Z" fill="#fff" stroke="#000" stroke-width="2" />
+    </g>
+    <text x="250" y="320" text-anchor="middle" font-size="32" font-weight="bold" fill="#fff">Diabetes Specialist</text>
+  </g>
+</svg>
