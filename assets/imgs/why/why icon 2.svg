@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <circle cx="250" cy="250" r="200" fill="#02AFE5" />
+    <g transform="translate(150, 150)">
+      <path d="M50,50 L150,50 L150,150 L50,150 Z" fill="#fff" stroke="#000" stroke-width="2" />
+      <path d="M75,75 L125,75 L125,125 L75,125 Z" fill="#02AFE5" />
+      <path d="M85,85 L115,85 L115,115 L85,115 Z" fill="#fff" />
+      <path d="M95,95 L105,95 L105,105 L95,105 Z" fill="#02AFE5" />
+    </g>
+    <g transform="translate(250, 250)">
+      <path d="M-50,-50 L50,50 L-50,50 Z" fill="#fff" stroke="#000" stroke-width="2" />
+      <path d="M-40,-40 L40,40 L-40,40 Z" fill="#02AFE5" />
+      <path d="M-30,-30 L30,30 L-30,30 Z" fill="#fff" />
+      <path d="M-20,-20 L20,20 L-20,20 Z" fill="#02AFE5" />
+    </g>
+    <text x="250" y="320" text-anchor="middle" font-size="32" font-weight="bold" fill="#fff">Love and Empathy</text>
+  </g>
+</svg>
