@@ -12393,3 +12393,9 @@ p.checkout-coupon input[type=text]:focus {
   color: #25d366;
   background-color: #fff;
 }
+
+.contact-map img {
+  width: 100%;
+  height: 660px;
+  object-fit: cover;
+}
