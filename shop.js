@@ -33,14 +33,14 @@ const products = [
     name: 'Product 3',
     description: 'This is the description of Product 1',
     price: 19.99,
-    image: 'product/product-03.png'
+    image: '/product/product-03.png'
   },
   {
     id: 2,
     name: 'Product 1',
     description: 'This is the description of Product 2',
-    price: 24.99,
-    image: 'product/product-01.png'
+    price: 88.99,
+    image: '/assets/imgs/product-01.png'
   },
   {
     id: 1,
