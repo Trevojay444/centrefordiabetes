@@ -5,14 +5,14 @@ const products = [
     name: 'Product 1',
     description: 'This is the description of Product 1',
     price: 32.99,
-    image: 'product/product-01.png'
+    image: '/product/product-01.png'
   },
   {
     id: 2,
     name: 'Product 2',
     description: 'This is the description of Product 2',
     price: 24.99,
-    image: 'product/product-02.png'
+    image: '/product/product-02.png'
   },
   {
     id: 1,
